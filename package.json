@@ -1,0 +1,15 @@
+{
+  "name": "wk6",
+  "version": "1.0.0",
+  "description": "tribute page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tailwindcss -i ./htmlcss/styles.css -o ./dist/output.css --watch"
+  },
+  "author": "tega",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
